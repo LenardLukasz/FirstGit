@@ -5,8 +5,8 @@ public class Start {
     public static void main(String[] args) {
         System.out.println("Hello World");
 
-        int myPcRam = 16;
-        int myLaptopRam = 8;
+        int myPcRam = 16 + myLaptopRam;
+        int myLaptopRam = 8 + myPcRam;
 
         System.out.println(myLaptopRam + myPcRam);
         System.out.println(myPcRam % myLaptopRam);
