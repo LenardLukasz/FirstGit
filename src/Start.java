@@ -18,6 +18,8 @@ public class Start {
 
         System.out.println("lukasz");
 
+        System.out.println("1");
+
         System.out.println(myLaptopRam + myPcRam);
         System.out.println(myPcRam % myLaptopRam);
 
