@@ -8,6 +8,11 @@ public class Start {
         int myPcRam = 16 + myLaptopRam;
         int myLaptopRam = 8 + myPcRam;
 
+
+        //
+        System.out.println("cos");
+
+
         System.out.println(myLaptopRam + myPcRam);
         System.out.println(myPcRam % myLaptopRam);
 
