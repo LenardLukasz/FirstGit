@@ -12,7 +12,9 @@ public class Start {
         System.out.println("moja jeszcze na zmiana / oskar");
 
         System.out.println("adsada");
-        //
+
+
+        System.out.println("oskar");
         System.out.println("Moja zmiana 3");
         System.out.println("cos");
 
