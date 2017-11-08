@@ -14,11 +14,14 @@ public class Start {
         System.out.println("adsada");
 
 
-        System.out.println("oskar");
+        System.out.println("tu bylem tony halik");
+        System.out.println("Moja zmiana 3");
         System.out.println("a tu bylem ja - oskar");
         System.out.println("cos");
 
         System.out.println("lukasz");
+
+        System.out.println("1");
 
         System.out.println(myLaptopRam + myPcRam);
         System.out.println(myPcRam % myLaptopRam);
