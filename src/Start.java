@@ -10,6 +10,7 @@ public class Start {
 
 
         //
+        System.out.println("Moja zmiana 3");
         System.out.println("cos");
 
 
