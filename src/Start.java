@@ -18,6 +18,7 @@ public class Start {
         System.out.println("Moja zmiana 3");
         System.out.println("cos");
 
+        System.out.println("lukasz");
 
         System.out.println(myLaptopRam + myPcRam);
         System.out.println(myPcRam % myLaptopRam);
