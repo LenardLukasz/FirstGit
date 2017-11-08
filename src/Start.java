@@ -9,6 +9,7 @@ public class Start {
         int myPcRam = 16 + myLaptopRam;
          myLaptopRam = 8 + myPcRam;
 
+        System.out.println("moja jeszcze na zmiana / oskar");
 
         //
         System.out.println("Moja zmiana 3");
