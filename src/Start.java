@@ -14,7 +14,7 @@ public class Start {
         System.out.println("adsada");
 
 
-        System.out.println("oskar");
+        System.out.println("tu bylem tony halik");
         System.out.println("Moja zmiana 3");
         System.out.println("cos");
 
